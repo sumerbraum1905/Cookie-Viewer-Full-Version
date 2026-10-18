@@ -236,4 +236,4 @@ This repository serves as the official landing page for Cookie Viewer. The softw
 **Get the most recent version of Cookie Viewer today!**
 
 ---
-**Last updated:** 2026-10-18 06:41:28 UTC
+**Last updated:** 2026-10-18 11:48:17 UTC
